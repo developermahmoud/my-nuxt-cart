@@ -33,6 +33,6 @@
     "eslint-plugin-prettier": "^3.0.1",
     "prettier": "^1.16.4",
     "@nuxtjs/stylelint-module": "^3.1.0",
-    "stylelint": "^10.1.0"
+    "stylelint": "^15.10.1"
   }
 }
